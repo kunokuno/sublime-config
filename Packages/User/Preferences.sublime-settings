@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/Theme - Piatto/Piatto Light.tmTheme",
+	"ignored_packages":
+	[
+		"1337 Color Scheme",
+		"3024 Color Scheme",
+		"Abacus",
+		"C++ Snippets",
+		"DocBlockr",
+		"GitGutter",
+		"Sublime Input",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SyncedSideBar",
+		"Theme - Piatto",
+		"Vintage"
+	],
+	"theme": "Piatto Light.sublime-theme"
+}
